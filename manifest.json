@@ -1,0 +1,27 @@
+{
+  "short_name": "Rudo",
+  "name": "Rudo Wealth",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/ico",
+      "sizes": "256x99"
+    },
+    {
+      "src": "/image.png",
+      "type": "image/png",
+      "sizes": "1281x720"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/image.png",
+      "sizes": "1281x720",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Rudo Wealth"
+    }
+  ]
+}
